@@ -1,1 +1,4 @@
 # AI-project-Spelling-Checker
+
+We all make spelling mistakes, what we call typos while writing messages, emails, etc. Writing should always have no spelling errors to let the reader get the correct understanding. But being humans, it is common for all of us to make some errors. For any type of text processing or analysis, checking the spelling of the word is one of the basic requirements. And that’s the reason the spell correctors are developed. These check the spelling of words and suggest the correct word if wrong. 
+To build this project, we will be using the Tkinter module and TextBlob modules from Python. We use the Tkinter module to build the GUI for taking input from the user and showing the output based on the spelling typed. And to do this check we will be using the TextBlob module.
